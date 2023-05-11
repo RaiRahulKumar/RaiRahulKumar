@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rahulkumar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python
+- 🌱 Digital marketing | Python | Java
 - 💞️ I’m looking to collaborate on web
-- 📫 How to reach me contact @rahulk08102002@gmail.com
+- 📫 How to reach me contact @rahul.kumar.rai940@gmail.com
 
 <!-
 RahulKumar/RahulKumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
